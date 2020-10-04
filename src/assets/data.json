@@ -1,0 +1,54 @@
+{
+  "places": [
+    {
+      "description": "El Jardín Botánico de Medellín Joaquín Antonio Uribe es un jardín botánico de unas 13.2 hectáreas de extensión, ubicado en la ciudad colombiana de Medellín. Cuenta con un recinto para eventos llamado el Orquideorama, un lugar arquitectónico para la exposición de flores. El Jardín cuenta con la condición de ser centro de cultura y educación ambiental y botánica, de enorme riqueza florística, y alberga más de 1.000 especies vivas y 4.500 individuos.  ",
+      "name": "Jardín Botánico",
+      "geometry": [6.2708781, -75.5663055]
+    },
+    {
+      "description": "Somos un parque de ciencia y tecnología, un acuario, un planetario. Somos espacios versátiles, escenarios memorables ubicados bajo el agua, al borde del universo y en salas premiadas nacional e internacionalmente por sus experiencias poco convencionales, que permiten vivir el significado más profundo y verdadero de la innovación. Pero más que una obra física, somos una idea en expansión con vigorosa vida fuera del Parque, pues desde hace un tiempo nuestros dominios se extendieron a otros barrios de la ciudad, e incluso a otros municipios de Antioquia, a través de talleres, procesos comunitarios y experiencias itinerantes como el Exploramóvil. ",
+      "name": "Parque Explora",
+      "geometry": [6.2699734, -75.5672738]
+    },
+    {
+      "description": "Parque temático apto para familias con montaña rusa y otras atracciones, área de juegos, lago y restaurantes.",
+      "name": "Parque Norte",
+      "geometry": [6.2686285, -75.568167]
+    },
+    {
+      "description": "El Palacio de la Cultura Rafael Uribe Uribe, antiguo Palacio de la Gobernación de Antioquia, es un edificio público colombiano ubicado en el centro de Medellín, sobre la Plaza Botero y en el cruce de la calle 52 con carrera 51. Se encuentra diagonal a la Estación Parque Berrío.",
+      "name": "Palacio Rafael Uribe Uribe",
+      "geometry": [6.2220891, -75.5971813]
+    },
+    {
+      "description": "El Parque de Berrío, o simplemente Parque Berrío, como los habitantes locales lo conocen popularmente, es un parque urbano ubicado en pleno corazón geográfico de la ciudad colombiana de Medellín.",
+      "name": "Parque Berrio",
+      "geometry": [6.2630222, -75.5706496]
+    },
+    {
+      "description": "Este parque está ubicado en la zona rosa de Medellín, en el barrio el Poblado. Es un sitio en donde están los restaurantes, los sitios de rumba, los cafés y demás establecimientos comerciales que prefieren los antioqueños para salir a divertirse.  Además de esto también se encuentra una gran variedad de comerciantes ambulantes alrededor del parque que ofrecen gran parte de la riqueza y cultura paisa vendiendo artesanías con materiales y técnicas típicas de la región.",
+      "name": "Parque Lleras",
+      "geometry": [6.2089814, -75.5701454]
+    },
+    {
+      "description": "El Parque de Bolívar, o simplemente Parque Bolívar como es conocido popularmente, es un parque urbano ubicado en plena zona céntrica de la ciudad colombiana de Medellín. Fue inaugurado en 1892 y denominado así en homenaje al libertador Simón Bolívar.",
+      "name": "Parque Bolivar.",
+      "geometry": [6.2652625, -75.5686261]
+    },
+    {
+      "description": "El Ferrocarril de Antioquia fue una red ferroviaria de carga y pasajeros de Colombia. Su construcción comenzó en 1874 y terminó oficialmente con su inauguración en 1929. El ferrocarril unió la región central del departamento de Antioquia, Colombia, con el río Magdalena, situado, al oriente del centro de Antioquia, y con las provincias localizadas al sur del departamento, esto es, Caldas y el Valle del Cauca. El Ferrocarril de Antioquia sacó a esta provincia de su histórico aislamiento geográfico con relación al resto de Colombia durante varios siglos. ",
+      "name": "Estación Ferrocarril.",
+      "geometry": [6.2443255, -75.5725269]
+    },
+    {
+      "description": "El Edificio Inteligente de las Empresas Públicas de Medellín o simplemente Edificio EPM es la sede administrativa de la empresa de servicios públicos EPM ubicada en la ciudad colombiana de Medellín (Antioquia). El edificio está rodeado de fuentes, zonas verdes y un auditorio cúbico; todo ello en la margen oriental del río Medellín, entre parques del Río y el Parque de los Pies Descalzos.",
+      "name": "Edificio Inteligente",
+      "geometry": [6.2451893, -75.5767219]
+    },
+    {
+      "description": "El Parque Lineal de Ciudad del Río, iniciativa privada residencial que transformó un antiguo sector industrial en un nuevo complejo habitacional al sur de la ciudad.",
+      "name": "Parque Lineal Cuidad del Río",
+      "geometry": [6.22026, -75.578084]
+    }
+  ]
+}
